@@ -1,0 +1,7 @@
+{
+  "name": "timeline",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
